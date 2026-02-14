@@ -1,0 +1,24 @@
+{
+    "version": "2.1.0",
+    "notes": "📌 Novedades de la versión 2.1.0:\n\n✓ Correcciones en el detector de BattlEye\n✓ Mejoras en la interfaz de usuario\n✓ Optimización de rendimiento\n✓ Nuevas opciones en el menú\n✓ Corrección de errores menores",
+    "files": [
+        {
+            "path": "main.py",
+            "md5": "hash_md5_del_archivo_main.py"
+        },
+        {
+            "path": "core/updater.py",
+            "md5": "hash_md5_del_archivo_updater.py"
+        },
+        {
+            "path": "ui/main_window.py",
+            "md5": "hash_md5_del_archivo_main_window.py"
+        },
+        {
+            "path": "ui/update_dialog.py",
+            "md5": "hash_md5_del_archivo_update_dialog.py"
+        }
+    ],
+    "min_version": "2.0.0",
+    "release_date": "2024-01-15"
+}
